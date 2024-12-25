@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter;
+  line-height: 1.5;
+  font-weight: 600;
+  color-scheme: light dark;
+  color: rgba(158, 158, 158, 0.87);
+}

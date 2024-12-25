@@ -8,7 +8,7 @@ function App() {
         Card Components
       </h1>
 
-      <div className="flex flex-wrap flex items-center">
+      <div className="flex flex-wrap items-center">
         < Card
           username="Delhi"
           image="https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&w=600"
